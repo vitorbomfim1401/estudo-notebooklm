@@ -16,7 +16,7 @@ Reduzir o tempo gasto na busca por informações normativas.\
 Apoiar colaboradores na resolução de dúvidas pontuais.\
 Padronizar interpretações da norma dentro da organização.\
 Demonstrar o uso de Inteligência Artificial Generativa aplicada à gestão do conhecimento corporativo.\
-Problema de Negócio\
+Problema de Negócio
 
 A interpretação do CPC 06 (R2) exige consulta frequente a documentos extensos e técnicos.
 
@@ -26,7 +26,7 @@ Dificuldade de localizar rapidamente tópicos específicos.\
 Divergências de interpretação entre usuários.\
 Dependência de especialistas para esclarecimento de dúvidas recorrentes.\
 Baixa centralização das informações normativas.\
-Solução Proposta\
+Solução Proposta
 
 Foi desenvolvido um NotebookLM contendo uma base documental estruturada sobre o CPC 06 (R2), permitindo que usuários realizem consultas em linguagem natural.
 
@@ -45,7 +45,7 @@ Material oficial do Comitê de Pronunciamentos Contábeis (CPC)\
 Exemplos ilustrativos da IFRS Foundation\
 Fontes Complementares\
 Artigos técnicos de auditorias independentes\
-Guias de implementação
+Guias de implementação\
 Estudos de caso e exemplos práticos
 
 Metodologia
@@ -54,7 +54,7 @@ Seleção de documentos relevantes.\
 Upload das fontes para o NotebookLM.\
 Testes de perguntas e validação das respostas.\
 Ajustes da base documental.\
-Elaboração de guia de utilização para usuários finais.\
+Elaboração de guia de utilização para usuários finais.
 
 NotebookLM: https://notebooklm.google.com/notebook/4dec9ced-969f-4445-86b3-3369da08ae1c
 
