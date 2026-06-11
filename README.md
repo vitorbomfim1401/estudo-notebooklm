@@ -48,7 +48,7 @@ Artigos técnicos de auditorias independentes\
 Guias de implementação\
 Estudos de caso e exemplos práticos
 
-Metodologia
+Metodologia\
 Coleta de materiais oficiais.\
 Seleção de documentos relevantes.\
 Upload das fontes para o NotebookLM.\
